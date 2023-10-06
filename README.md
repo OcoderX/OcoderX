@@ -1,57 +1,47 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f6f8fa;
-            margin: 0;
-            padding: 0;
-        }
-        .header {
-            background-color: #24292e;
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
-        }
-        .profile {
-            display: flex;
-            justify-content: center;
-            margin-top: 50px;
-        }
-        .avatar {
-            margin-right: 50px;
-        }
-        .avatar img {
-            border-radius: 50%;
-            width: 150px;
-            height: 150px;
-        }
-        .info {
-            line-height: 30px;
-            width: 300px;
-        }
-        .info h2, .info p {
-            margin: 10px 0;
-        }
-    </style>
+    <title>GitHub Profile</title>
 </head>
 <body>
-    <div class="header">
-        <h1>GitHub Profile</h1>
-    </div>
-    <div class="profile">
-        <div class="avatar">
-            <img src="avatar.jpg" alt="Avatar">
-        </div>
-        <div class="info">
-            <h2>Username</h2>
-            <p><strong>Bio:</strong> This is a short bio.</p>
-            <p><strong>Location:</strong> City, Country</p>
-            <p><strong>Repositories:</strong> 10</p>
-            <p><strong>Followers:</strong> 200</p>
-            <p><strong>Following:</strong> 150</p>
-        </div>
-    </div>
+    <h1>GitHub Profile</h1>
+    <table border="1">
+        <tr>
+            <td rowspan="6"><img src="avatar.jpg" alt="Avatar" width="150" height="150"></td>
+            <td><strong>Username:</strong></td>
+            <td>Username</td>
+        </tr>
+        <tr>
+            <td><strong>Bio:</strong></td>
+            <td>This is a short bio.</td>
+        </tr>
+        <tr>
+            <td><strong>Location:</strong></td>
+            <td>City, Country</td>
+        </tr>
+        <tr>
+            <td><strong>Repositories:</strong></td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td><strong>Followers:</strong></td>
+            <td>200</td>
+        </tr>
+        <tr>
+            <td><strong>Following:</strong></td>
+            <td>150</td>
+        </tr>
+    </table>
+
+    <h2>Repositories</h2>
+
+    <!-- List of repositories -->
+    <ul>
+        <li><a href="#">Repository 1</a></li>
+        <li><a href="#">Repository 2</a></li>
+        <!-- Add more repositories as needed -->
+    </ul>
+
 </body>
 </html>
+
