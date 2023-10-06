@@ -1,41 +1,59 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Beautiful Repository</title>
     <style>
+        /* CSS styles go here */
         body {
             font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
         }
-        .profile {
-            display: flex;
-            margin-top: 50px;
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
         }
-        .avatar {
-            margin-right: 50px;
+        
+        h1 {
+            margin: 0;
         }
-        .avatar img {
-            border-radius: 50%;
-            width: 150px;
-            height: 150px;
+        
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
-        .info {
-            line-height: 30px;
+        
+        p {
+            line-height: 1.5;
         }
     </style>
 </head>
 <body>
-    <div class="profile">
-        <div class="avatar">
-            <img src="https://avatars.githubusercontent.com/u/146486738?v=4" alt="Avatar">
-        </div>
-        <div class="info">
-            <h2>Username</h2>
-            <p><strong>Bio:</strong> This is a short bio.</p>
-            <p><strong>Location:</strong> City, Country</p>
-            <p><strong>Repositories:</strong> 10</p>
-            <p><strong>Followers:</strong> 200</p>
-            <p><strong>Following:</strong> 150</p>
-        </div>
-    </div>
+    <header>
+        <h1>My Beautiful Repository</h1>
+    </header>
+    <main>
+        <h2>About</h2>
+        <p>Welcome to my beautiful repository! This is a place where I showcase my projects and share my knowledge with others.</p>
+        
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Project 1</a></li>
+            <li><a href="#">Project 2</a></li>
+            <li><a href="#">Project 3</a></li>
+        </ul>
+        
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me via email at <a href="mailto:example@example.com">example@example.com</a>.</p>
+    </main>
 </body>
 </html>
