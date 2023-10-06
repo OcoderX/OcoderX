@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+ 
 <body>
     <h1>GitHub Profile</h1>
     <table border="1">
