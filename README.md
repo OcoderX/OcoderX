@@ -5,7 +5,7 @@
     <h1>GitHub Profile</h1>
     <table border="1">
         <tr>
-            <td rowspan="6"><img src="https://source.unsplash.com/random/500x500/?lamborghini" alt="Avatar" width="100px" height="100px"></td>
+            <td rowspan="6"><img src="https://source.unsplash.com/random/500x500/?lamborghini-adventator" alt="Avatar" width="100px" height="100px"></td>
             <td><strong>Username: X</strong></td>
             <td>@OcoderX</td>
         </tr>
