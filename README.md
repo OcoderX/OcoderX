@@ -5,29 +5,29 @@
     <h1>GitHub Profile</h1>
     <table border="1">
         <tr>
-            <td rowspan="6"><img src="https://github.com/OcoderX/images/blob/8343b6dd80a25f08075f339e1df90088f36df016/photo_2023-04-11_14-06-39.jpg" alt="Avatar" width="100px" height="100px"></td>
-            <td><strong>Username:</strong></td>
-            <td>Username</td>
+            <td rowspan="6"><img src="https://source.unsplash.com/random/500x500/?lamborghini" alt="Avatar" width="100px" height="100px"></td>
+            <td><strong>Username: X</strong></td>
+            <td>@OcoderX</td>
         </tr>
         <tr>
-            <td><strong>Bio:</strong></td>
-            <td>This is a short bio.</td>
+            <td><strong>Bio: Studen of TUIT</strong></td>
+            <td>Admin for somme TUIT's channels</td>
         </tr>
         <tr>
             <td><strong>Location:</strong></td>
-            <td>City, Country</td>
+            <td>Tashkent, Uzbekistan</td>
         </tr>
         <tr>
             <td><strong>Repositories:</strong></td>
             <td>10</td>
         </tr>
         <tr>
-            <td><strong>Followers:</strong></td>
-            <td>200</td>
+            <td><strong>Followers: </strong></td>
+            <td>0</td>
         </tr>
         <tr>
             <td><strong>Following:</strong></td>
-            <td>150</td>
+            <td>0</td>
         </tr>
     </table>
 
