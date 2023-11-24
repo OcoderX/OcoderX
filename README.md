@@ -11,7 +11,7 @@
         </tr>
         <tr>
             <td><strong>Bio: Studen of TUIT</strong></td>
-            <td>Admin for somme TUIT's channels</td>
+            <td>Admin for some TUIT's channels</td>
         </tr>
         <tr>
             <td><strong>Location:</strong></td>
