@@ -12,7 +12,7 @@
     </tr>
     <tr>
         <td><strong>📘 Bio</strong></td>
-        <td>TATU talabasi</td>
+        <td>TATU talabasi ( 2021-2025 )</td>
     </tr>
     <tr>
         <td><strong>📍 Joylashuv</strong></td>
@@ -20,15 +20,15 @@
     </tr>
     <tr>
         <td><strong>📦 Repozitoriyalar</strong></td>
-        <td>10 ta</td>
+        <td>13 ta</td>
     </tr>
     <tr>
         <td><strong>👥 Obunachilar</strong></td>
-        <td>0 ta</td>
+        <td>3 ta</td>
     </tr>
     <tr>
         <td><strong>➡️ Obunalar</strong></td>
-        <td>0 ta</td>
+        <td>5 ta</td>
     </tr>
 </table>
 
