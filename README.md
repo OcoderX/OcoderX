@@ -2,7 +2,7 @@
 <h3 align="center">TATU talabasi</h3>
 
 <p align="center">
-  <img src="https://source.unsplash.com/random/300x300/?lamborghini-aventador" alt="Avatar" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Hojiakbar_obidov.jpg" alt="Avatar" width="150">
 </p>
 
 <table align="center">
